@@ -1,2 +1,2 @@
 * Website Link:
-   > https://omarelmaahdy.github.io/Tindog/
+    > [Click Here](https://omarelmaahdy.github.io/Tindog/ "Tindog")
